@@ -162,3 +162,8 @@ nav{
 
 
 /* beginning of contact page */
+
+.text{
+  font-weight: 300;
+  margin-top: 25px;
+}
