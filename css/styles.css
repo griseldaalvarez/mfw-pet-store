@@ -157,12 +157,39 @@ nav{
 .social{
   border-left: 1px solid black;
 }
+/* end of index page */
 
 
 
+/* beginning of contact page */
 
-/* need help fixing this */
-/* .icon{
-  float: left;
-  color: #5c433f;
-} */
+.doctor_img{
+  margin-top: 55px;
+}
+
+.feature{
+  margin-top: 55px;
+}
+
+.female_doctor_img{
+  margin-bottom: 15px;
+}
+
+
+.text{
+  font-weight: 300;
+  margin-top: 25px;
+}
+
+.map{
+  margin-left: 95px;
+  margin-top: 55px;
+}
+
+.animal{
+  margin-top: 20px;
+}
+
+.cat_picture{
+  margin-left: 105px;
+}
