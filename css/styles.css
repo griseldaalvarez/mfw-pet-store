@@ -163,6 +163,19 @@ nav{
 
 /* beginning of contact page */
 
+.doctor_img{
+  margin-top: 55px;
+}
+
+.feature{
+  margin-top: 55px;
+}
+
+.female_doctor_img{
+  margin-bottom: 15px;
+}
+
+
 .text{
   font-weight: 300;
   margin-top: 25px;
@@ -170,6 +183,11 @@ nav{
 
 .map{
   margin-left: 95px;
+  margin-top: 55px;
+}
+
+.animal{
+  margin-top: 20px;
 }
 
 .cat_picture{
