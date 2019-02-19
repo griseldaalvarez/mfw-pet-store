@@ -162,10 +162,12 @@ nav{
 
 /* BEGINNING OF PRODUCTS PAGE */
 
+
+
 #top-page h1{
-  font-family: 'Pacifico', cursive;
-  margin-top: 35px;
-  font-size: 65px;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 55px;
+  font-size: 45px;
 }
 
 .vet:hover{
@@ -195,14 +197,18 @@ nav{
 hr{
   border-color: #000;
   border-width: thick;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 
 .middle{
   font-size: 60px;
   margin-top: 45px;
+  font-family: 'Charm', cursive;
 }
 
+.apoquel{
+  margin-top: 20px;
+}
 .btn{
   margin-left: 40px;
   margin-top: 55px;
@@ -213,9 +219,43 @@ hr{
   margin-left: 20px;
 }
 
+.heartgard{
+  margin-top: 30px;
+}
+
 .btn3{
-  margin-top: 65px;
+  margin-top: 50px;
   margin-left: 35px;
+}
+
+.center{
+  margin-top: 95px;
+}
+
+.zycortal{
+  margin-left: 45px;
+}
+
+.btn4{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.btn5{
+  margin-left: 45px;
+  margin-top: 30px;
+}
+
+.nutra{
+  width: 160px;
+  height: 180px;
+  margin-left: 34px;
+  margin-top: 40px;
+}
+
+.btn6{
+  margin-top: 28px;
+  margin-left: 45px;
 }
 
 
