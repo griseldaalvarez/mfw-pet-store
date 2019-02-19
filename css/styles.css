@@ -192,6 +192,16 @@ nav{
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
+hr{
+  border-color: #000;
+  border-width: thick;
+  margin-top: 80px;
+}
+
+.middle{
+  font-size: 60px;
+  margin-top: 45px;
+}
 
 
 /* END OF PRODUCTS PAGE */
